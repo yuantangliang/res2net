@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+.idea
+plot.gv
+plot.gv.pdf
 __pycache__/
 *.py[cod]
 *$py.class
